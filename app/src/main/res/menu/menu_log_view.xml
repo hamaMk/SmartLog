@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="elements.rogue.smartlog.activities.LogViewActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/edit"
+        android:orderInCategory="100"
+        android:title="Edit"
+        app:showAsAction="never|always" />
+    <item android:title="Item" />
+</menu>
